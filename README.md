@@ -47,5 +47,3 @@ for option in soup.find(id='ctl00_ContentPlaceHolder1_Result1_ddlState').find_al
 
 # Continue scraping the required details and store them in pandas DataFrame
 ```
-## License
-This project is licensed under the MIT License.
